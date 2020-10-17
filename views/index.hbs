@@ -1,3 +1,4 @@
+<h1>Account login</h1>
 <form action="users" method="POST">
     <div>
         <label for="email">Email</label>
@@ -9,3 +10,6 @@
     </div>
     <button type="submit">Commit</button>
 </form>
+{{#if wrong}}
+<p>Username 或Password 錯誤</p>
+{{/if}}
