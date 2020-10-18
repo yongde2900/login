@@ -26,8 +26,10 @@
     $ cd login
     $ npm install
 建立種子資料
+
     $ npm run seed
 使用nodemon執行app.js
+
     $ npm run dev
 成功開啟會出現以下訊息
 
