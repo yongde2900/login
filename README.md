@@ -12,11 +12,11 @@
 * Robo 3T v1.4.1
 # 安裝與執行步驟
 
-安裝mongoDB
-安裝Robo 3T
-開啟mongoDB伺服器
-連線到mongoDB伺服器
-創建名為 users 的資料庫
+安裝mongoDB  
+安裝Robo 3T  
+開啟mongoDB伺服器  
+連線到mongoDB伺服器  
+創建名為 users 的資料庫  
 
 開啟終端機(Terminal)cd 到存放專案本機位置並執行:  
 
